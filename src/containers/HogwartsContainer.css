@@ -1,0 +1,11 @@
+.hogwartsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hogwartsContainer img{
+    width: 200px;
+}
